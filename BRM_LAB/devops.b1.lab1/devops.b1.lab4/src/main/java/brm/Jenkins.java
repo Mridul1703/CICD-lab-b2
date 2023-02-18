@@ -1,4 +1,4 @@
-package devops.b1.lab4;
+package brm;
 
 public class Jenkins {
 	public static void main(String args[]) {
